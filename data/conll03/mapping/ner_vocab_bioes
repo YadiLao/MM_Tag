@@ -1,0 +1,18 @@
+{"O": 0,
+ "B-PER": 1,
+ "I-PER": 2,
+ "E-PER": 3,
+ "S-PER": 4,
+ "B-MISC": 5,
+ "I-MISC": 6,
+ "E-MISC": 7,
+ "S-MISC": 8,
+ "B-ORG": 9,
+ "I-ORG": 10,
+ "E-ORG": 11,
+ "S-ORG": 12,
+ "B-LOC": 13,
+ "I-LOC": 14,
+ "E-LOC": 15,
+ "S-LOC": 16
+}
