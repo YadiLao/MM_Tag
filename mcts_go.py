@@ -16,7 +16,7 @@ from treelib import Tree
 from collections import defaultdict
 from sklearn.metrics import f1_score
 from args import Parameter
-from pvnet_simple import *
+from pvnet import *
 from eval import *
 from tools import *
 
