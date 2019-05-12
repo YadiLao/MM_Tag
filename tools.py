@@ -67,7 +67,7 @@ class InputExample(object):
     def _print(self):
         print('******** print example ***********')
         print('id: %s' % self.guid)
-        print("text-%s: %s" % (str(self.sen_len), ' '.join([str(s) for s in self.sen])))
+        print("text-%s: %s" % (' '.join([str(s) for s in self.sen])))
         print("char-%s:" % (' '.join([str(c) for c in self.char_len])))
 
 
